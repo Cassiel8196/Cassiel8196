@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I am now a junior at Xi 'an Jiaotong University, majoring in automation.
+
 <!--
 **Cassiel8196/Cassiel8196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
