@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🌱 I am a master student at Shanghai Jiaotong University, majoring in Automation.
-B.Sc. in Automation, Xi'an Jiaotong University;
+
+- 🔭 Research interests: 3D Vision, 3D scene understanding
 <!--
 **Cassiel8196/Cassiel8196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
